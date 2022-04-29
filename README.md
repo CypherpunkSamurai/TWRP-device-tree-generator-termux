@@ -1,6 +1,6 @@
 # TWRP device tree generator
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69d10f044ce34de2bf7ae6ee7fe0595e)](https://app.codacy.com/manual/SebaUbuntu/TWRP-device-tree-generator?utm_source=github.com&utm_medium=referral&utm_content=SebaUbuntu/TWRP-device-tree-generator&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69d10f044ce34de2bf7ae6ee7fe0595e)](https://app.codacy.com/manual/CypherpunkSamurai/TWRP-device-tree-generator-termux?utm_source=github.com&utm_medium=referral&utm_content=CypherpunkSamurai/TWRP-device-tree-generator-termux&utm_campaign=Badge_Grade_Dashboard)
 
 Create a TWRP-compatible device tree only from a recovery.img
 
@@ -32,3 +32,9 @@ With this script I tried to write TwrpBuilder script in Bash, and somehow I succ
 ## TODO
 
 -   A/B support
+
+## Credits
+
+* SebaUbuntu - for this script
+* EngMoPro - for archiving it
+* Shubhamvis98 - [for arm64 AIK](https://github.com/Shubhamvis98/AIK)
